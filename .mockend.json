@@ -1,9 +1,9 @@
 {
-  "root": {
-    "int": [
-      100,
-      200,
-      300
-    ]
+  "ModelName": {
+    "fieldName": {
+      "<type>": {} | [],
+      "hasMany": "Model",
+      "belongsTo": "Model"
+    }
   }
 }
