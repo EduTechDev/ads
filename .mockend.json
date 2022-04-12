@@ -1,10 +1,8 @@
 {
-  "response": {
-    {
-      "Interstial AD": "Saurabh Kumar Gupta"
-    },
-    {
-      "Banner AD": "ca-app-pub-3940256099942544/6300978111"
-    }
+  "name": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
   }
 }
